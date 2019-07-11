@@ -1,0 +1,10 @@
+def mod(X, Y):
+    x = X
+    y = Y
+    result = 0
+    if(x>y):
+        result = x
+    else :
+        result = y
+    return result
+# end
